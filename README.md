@@ -1,4 +1,4 @@
-![logo](https://github.com/raj840968ankit/raj840968ankit/blob/main/a-16-9-laptop-wallpaper-with-a-futuristi_Z9D17bKSSbqoVtH8JlqsLA_-neDUu63TP2iqSkoXZpyiA.jpeg)
+![logo]([https://github.com/raj840968ankit/raj840968ankit/blob/main/a-16-9-laptop-wallpaper-with-a-futuristi_Z9D17bKSSbqoVtH8JlqsLA_-neDUu63TP2iqSkoXZpyiA.jpeg](https://github.com/KrishanBalram/KrishanBalram/blob/8b98f33f047fd52c437fe5b87dc5cd6084b89fd7/krishna.png))
 <h1 align="center">Hi 👋, I'm Krishna Kanhaiya</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
